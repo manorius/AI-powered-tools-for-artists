@@ -18,3 +18,11 @@ Join them on [SLACK](https://runwayml.com/joinslack) and follow them on [Twitter
 
 Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photoshop/releases) and other integrations [here](https://runwayml.com/integrations)
 
+#### UNITY
+- Create a new project
+- Download the Socket.IO Asset from Asset Store and import
+- Go to ASSETS>SocketIO>Scenes and open the SocketIOTest
+- Open RunwayML and create a Posenet project
+- Select camera and reduce the resolution of the Width to 200 and flip vertically 
+- Under the Network Tab select Socket.io and keep a note of the port
+- Go Back to Unity and click SocketIO in the hierachy window
