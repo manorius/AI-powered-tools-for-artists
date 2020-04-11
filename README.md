@@ -20,9 +20,13 @@ Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photosho
 
 #### UNITY
 - Create a new project
-- Download the Socket.IO Asset from Asset Store and import
+- Download the Socket.IO for Unity Asset from Asset Store and import
+- (optional) Download Gridbox Prototype Materials from Asset Stroe and import 
 - Go to ASSETS>SocketIO>Scenes and open the SocketIOTest
 - Open RunwayML and create a Posenet project
 - Select camera and reduce the resolution of the Width to 200 and flip vertically 
 - Under the Network Tab select Socket.io and keep a note of the port
 - Go Back to Unity and click SocketIO in the hierachy window
+- In the Inspector tab under the Socket IO Component (Script) change the Port of the URL to the URL you got from Runway
+- Edit the TestSocketIO script under ASSETS>SocketIO>Test
+- 
