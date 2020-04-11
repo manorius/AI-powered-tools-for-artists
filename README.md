@@ -9,3 +9,12 @@ OSC Output: [FM synthesis](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads
 
 
 For more examples check the wekinator [examples page](http://www.wekinator.org/examples/)
+
+### RunwayML   
+
+Download [here](https://runwayml.com/download)\
+After creating an account you will get 10$ free GPU credits\
+Join them on [SLACK](https://runwayml.com/joinslack) and follow them on [Twitter](https://twitter.com/runwayml)
+
+Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photoshop/releases) and other integrations [here](https://runwayml.com/integrations)
+
