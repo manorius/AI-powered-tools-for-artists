@@ -1,5 +1,22 @@
 # AI-powered-tools-for-artists
 
+## Resources and People to follow
+
+Memo Akten
+Anna Ridler
+[Golan Levin](http://www.flong.com/)
+[Gene Kogan](https://genekogan.com/)
+- [Machine Learning for Artists](https://ml4a.github.io/)
+Rebecca Fiebrink
+Mario Klingemann
+Patrick Tresset
+[Kyle McDonald](http://kylemcdonald.net/)
+[Daniel Shiffman](https://shiffman.net/)
+- [Coding Train](https://www.youtube.com/user/shiffman)
+
+
+## TOOLS
+
 ### Wekinator - Classification
 
 Wekinator: http://www.wekinator.org/downloads/
@@ -9,6 +26,8 @@ OSC Output: [FM synthesis](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads
 
 
 For more examples check the wekinator [examples page](http://www.wekinator.org/examples/)
+
+### ML5.js
 
 ### RunwayML   
 
