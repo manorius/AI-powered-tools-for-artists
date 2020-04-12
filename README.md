@@ -2,17 +2,15 @@
 
 ## Resources and People to follow
 
-Memo Akten
-Anna Ridler
-[Golan Levin](http://www.flong.com/)
-[Gene Kogan](https://genekogan.com/)
-- [Machine Learning for Artists](https://ml4a.github.io/)
-Rebecca Fiebrink
-Mario Klingemann
-Patrick Tresset
-[Kyle McDonald](http://kylemcdonald.net/)
-[Daniel Shiffman](https://shiffman.net/)
-- [Coding Train](https://www.youtube.com/user/shiffman)
+Memo Akten\
+Anna Ridler\
+[Golan Levin](http://www.flong.com/)\
+[Gene Kogan](https://genekogan.com/) - [Machine Learning for Artists](https://ml4a.github.io/)\
+Rebecca Fiebrink\
+Mario Klingemann\
+Patrick Tresset\
+[Kyle McDonald](http://kylemcdonald.net/)\
+[Daniel Shiffman](https://shiffman.net/) - [Coding Train](https://www.youtube.com/user/shiffman)
 
 
 ## TOOLS
