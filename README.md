@@ -18,7 +18,7 @@ Join them on [SLACK](https://runwayml.com/joinslack) and follow them on [Twitter
 
 Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photoshop/releases) and other integrations [here](https://runwayml.com/integrations)
 
-#### UNITY
+#### - UNITY
 - Create a new project
 - Download the Socket.IO for Unity Asset from Asset Store and import
 - (optional) Download Gridbox Prototype Materials from Asset Stroe and import 
@@ -29,4 +29,5 @@ Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photosho
 - Go Back to Unity and click SocketIO in the hierachy window
 - In the Inspector tab under the Socket IO Component (Script) change the Port of the URL to the URL you got from Runway
 - Edit the TestSocketIO script under ASSETS>SocketIO>Test
-- 
+- The various stages of the code along with the assets used can be found in the unity folder
+
