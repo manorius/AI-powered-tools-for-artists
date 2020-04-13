@@ -24,9 +24,6 @@ OSC Output: [FM synthesis](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads
 
 For more experiments check the wekinator [examples page](http://www.wekinator.org/examples/)
 
-### ML5.js   
-Download [here](https://ml5js.org/)
-
 ### RunwayML   
 
 Download [here](https://runwayml.com/download)\
@@ -48,4 +45,8 @@ Install the [Photoshop plugin](https://github.com/runwayml/RunwayML-for-Photosho
 - In the Inspector tab under the Socket IO Component (Script) change the Port of the URL to the URL you got from Runway
 - Edit the TestSocketIO script under ASSETS>SocketIO>Test
 - The various stages of the code along with the assets used can be found in the unity folder
+
+
+### ML5.js   
+Download [here](https://ml5js.org/)
 
